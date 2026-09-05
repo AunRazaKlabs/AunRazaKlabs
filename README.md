@@ -1,5 +1,5 @@
 👋 Hi, I'm Aun Raza
-💻 Software Engineer | Full-Stack Developer
+💻 Software Engineer | Senior Software Engineer
 
 I’m a Software Engineer passionate about building scalable, modern, and user-focused applications.
 
