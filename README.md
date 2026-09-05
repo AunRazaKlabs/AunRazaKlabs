@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Aun Raza
+💻 Software Engineer | Full-Stack Developer
 
-<!--
-**AunRazaKlabs/AunRazaKlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer passionate about building scalable, modern, and user-focused applications.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real products and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages
+
+Flutter
+Angular
+Ionic
+VueJs
+
+🚀 Featured Projects
+🗺️ Interactive Map
+
+An interactive map application built with C++.
+
+📋 Flutter Task Manager
+
+A task management application built with Flutter.
+
+📊 GitHub Stats
+
+🔥 Contribution Streak
+
+🌐 Connect With Me
+
+💻 GitHub: @AunRazaKlabs
+
+💡 "Build. Learn. Improve. Repeat."
+
+Thanks for visiting my profile! ⭐
